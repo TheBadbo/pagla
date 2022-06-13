@@ -1,0 +1,2 @@
+Ip:DarkSMPaw.aternos.me
+Port:64253
